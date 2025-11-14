@@ -9,6 +9,7 @@ Requisitos:
 Instalação e execução:
 
 ```bash
+git clone https://github.com/wellmsan/anima-front-cadastro.git frontend
 cd frontend
 npm install
 npm run dev
