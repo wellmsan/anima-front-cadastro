@@ -24,5 +24,3 @@ Páginas:
 - `/` - Lista de pets
 - `/new` - Formulário para criar pet
 - `/edit/:id` - Formulário para editar (efetua delete+create por trás)
-
-Se quiser que eu adicione testes automatizados, build automático ou integração com Docker, diga qual abordagem prefere.
